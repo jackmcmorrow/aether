@@ -1,0 +1,35 @@
+[
+	{
+		"layout" : "base",
+		"view" : "index",
+		"title" : "Bem-vindo!"
+	},
+
+	{
+		
+		"view" : "sobre",
+		"title" : "Sobre nós"
+		
+	},
+
+	{
+		"layout" : "base",
+		"view" : "contato",
+		"title" : "Entre em contato"
+		
+	},
+
+	{
+		"layout" : "admin",
+		"view" : "login",
+		"title" : "Login no sistema"
+		
+	},
+
+	{
+		"layout" : "admin",
+		"view" : "admin",
+		"title" : "Painel administrativo"
+		
+	}
+]
